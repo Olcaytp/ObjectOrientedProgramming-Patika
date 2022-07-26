@@ -1,5 +1,6 @@
 # ObjectOrientedProgramming-Patika
-Patika.dev projeleri
+# Patika.dev projeleri
+
 <br>
 Ödev - Üniversite Yönetim Sistemi
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
